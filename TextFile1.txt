@@ -4,4 +4,8 @@ This is a second line in the file.
 Hi, my name is Anne!
 And i´m Ben!
 Anne wants to go ahead and build a game.
+<<<<<<< Updated upstream
 Here´s an important bugfix.
+=======
+This is something i´m still working on!
+>>>>>>> Stashed changes
